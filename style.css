@@ -1,0 +1,9 @@
+* {
+  padding: 10px;
+  margin: 10px;
+}
+div {
+  min-width: 200px;
+  min-height: 20px;
+  border: 2px orangered solid;
+}
